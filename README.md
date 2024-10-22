@@ -1,5 +1,10 @@
+<div align="center">
+  <img src="Coding GIF.gif" alt="Coding GIF" width="800"/>
+</div>
+
+ <!--<img style="float: right;" src="Moon GIF.gif" alt="Moon GIF" width="400" /> -->
 <h1 align="center">Hi 👋, I'm Anas Khan</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<p align="center">A passionate Software developer from India</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
