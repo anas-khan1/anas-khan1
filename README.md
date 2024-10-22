@@ -4,7 +4,8 @@
 
  <!--<img style="float: right;" src="Moon GIF.gif" alt="Moon GIF" width="400" /> -->
 <h1 align="center">Hi 👋, I'm Anas Khan</h1>
-<p align="center">A passionate Software developer from India</p>
+<h3 align="center">A passionate Software developer from India</h3>
+<p align="center">I’m currently immersing myself in the world of computer science, exploring new technologies every day. Right now, I'm diving deep into data structures, algorithms, and web development to enhance my skills!</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
